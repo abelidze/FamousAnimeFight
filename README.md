@@ -16,7 +16,7 @@ Requirements and Credits
 | [@GearGOD](http://gmc.yoyogames.com/index.php?showuser=18164) | skin.dll |
 | [@hobbel](http://gmc.yoyogames.com/index.php?showuser=46246) | DownloadManager2.dll |
 | [@Adventus](http://gmc.yoyogames.com/index.php?showuser=40289) | GMZ.dll |
-| [@Ravotus] (http://gmc.yoyogames.com/index.php?showuser=502) | GMMovie.dll |
+| [@Ravotus](http://gmc.yoyogames.com/index.php?showuser=502) | GMMovie.dll |
 
 License
 -------
