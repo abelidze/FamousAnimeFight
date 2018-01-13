@@ -1,0 +1,10 @@
+.DS_Store
+log/
+dev/
+*.gb*
+*.ini
+*.exe
+Thumbs.db
+
+# But
+!*/build/*.exe
