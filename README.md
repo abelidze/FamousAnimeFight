@@ -8,8 +8,10 @@ Requirements and Credits
 ------------------------
 
 > **Libraries (binaries for Win32 already included):**
+
 | Developer | Product |
 |:-------------------------------------------|:---------------------------------------|
+| [@YoYo Games](https://www.yoyogames.com/) | Game Maker 8 Pro |
 | [@39ster](http://gmc.yoyogames.com/index.php?showuser=234) | 39dll (v2.x) |
 | [@GearGOD](http://gmc.yoyogames.com/index.php?showuser=18164) | skin.dll |
 | [@hobbel](http://gmc.yoyogames.com/index.php?showuser=46246) | DownloadManager2.dll |
